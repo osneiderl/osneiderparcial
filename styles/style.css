@@ -1,0 +1,33 @@
+.iconos{
+    background-color: #000;
+    width: 100%;
+}
+
+.inicio{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+}
+.parrafo{
+    /* background: #000;  */
+    margin-top: -25px;  
+    background: #0fe;
+}
+.titulo{
+    padding-top: 5px;
+    text-align: center;
+}
+
+.contenido{
+    text-align: justify;
+    font-size: 18px;
+}
+.tipo_textos{
+    margin-top: -18px;  
+    background: #552;
+}
+
+.cursiva{
+    color: #aad821;
+    font-size: 18px;
+}
